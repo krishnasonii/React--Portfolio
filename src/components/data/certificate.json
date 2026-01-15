@@ -1,0 +1,31 @@
+[
+  {
+    "key": 1,
+    "title": "College Internal Hackathon",
+    "imageSrc": "college.png",
+    "description": "Actively participated in the Internal Hackathon 2025 organized by the MCA Department at Teerthanker Mahaveer University, showcasing problem-solving and innovation skills."
+  },
+
+   {
+    "key": 2,
+    "title": "Big Data Computing Course By NPTEL",
+    "imageSrc": "bigdata.jpeg",
+    "description": "Big Data Computing Course Offered by NPTEL and IIT Patna with 84% score."
+   
+  },
+   {
+    "key": 3,
+    "title": "Reliance Foundaton Course",
+    "imageSrc": "reliance.png",
+    "description": "Successfully completed Front-end Web Development course by Reliance Foundation Skilling Academy, gaining practical skills in modern web technologies."
+   
+  },
+    {
+    "key": 4,
+    "title": "C language Test Organized by IIT Bombay",
+    "imageSrc": "c certificate.jpeg",
+    "description": "Teerthanker Mahaveer University in association with IIT Bombay conducted C language test and I scored 92.50%"
+   
+  }
+
+]

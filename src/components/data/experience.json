@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Full-Stack Developer",
+    "organisation": "Main Flow Services and Technologies Pvt. Ltd.",
+    "startDate": "June to ",
+    "endDate": "July, 2025",
+    "Mode": "Remote",
+    "experiences": [ "Remote"
+
+    ],
+    "imageSrc": "company/mainflow.jpeg"
+  },
+    {
+    "id": 2,
+    "role": "Web Developer",
+    "organisation": "Apex Planet Software Pvt. Ltd.",
+    "startDate": "March to ",
+    "endDate": "May, 2025",
+    "Mode": "Remote",
+    "experiences": [ "Remote"
+
+    ],
+    "imageSrc": "company/apex.png"
+  }
+
+
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React JS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express JS",
+    "imageSrc": "skills/Express.png"
+  },
+ 
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+   {
+    "title": "C++",
+    "imageSrc": "skills/clogo.png"
+  },
+  {
+     "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+   {
+     "title": "MySql",
+    "imageSrc": "skills/mys.png"
+  },
+   {
+     "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+   {
+     "title": "Zustand",
+    "imageSrc": "skills/zustands.jpg"
+  },
+   {
+     "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+   {
+     "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+ {
+     "title": "Cloudinary",
+    "imageSrc": "skills/cloudinary.png"
+  },
+   {
+     "title": "git & Github",
+    "imageSrc": "skills/github.png"
+  },
+   {
+     "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  }
+ 
+ 
+]

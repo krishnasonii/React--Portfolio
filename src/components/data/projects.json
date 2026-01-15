@@ -1,0 +1,40 @@
+
+
+
+
+[
+    {
+    "key": 1,
+    "title": "AI-Powered Recipe Generator",
+    "imageSrc": "Recipe.jpeg",
+    "description": "AI-Powered Recipe Generator built with MERN stack, OpenAI API, and real-time recipe suggestions.",
+    "demo": "",
+    "source": "https://github.com/krishnasonii/AI-Recipe-Generator.git"
+  },
+  {
+    "key": 2,
+    "title": "Hotel Mangement and Listing Platform",
+    "imageSrc": "portimg.jpeg",
+    "description": "A full-stack project built with JavaScript, Node.js, Express.js, MongoDB, and EJS, implementing RESTful APIs.",
+    "demo": "https://project-z5e5.onrender.com",
+    "source": "https://github.com/krishnasonii/Hotel-Management-and-Listing-Platfrom.git"
+  },
+    {
+    "key": 3,
+    "title": "Chat Application",
+    "imageSrc": "chatpic.png",
+    "description": "This is a project made with MERN stack and Socket.io for real-time messaging.",
+    "demo": "https://chat-applicaton-op86.onrender.com/",
+    "source": "https://github.com/krishnasonii/Chat-applicaton.git"
+  },
+
+  {
+    "key": 4,
+    "title": "To-DO-List Web App",
+    "imageSrc": "todo.jpeg",
+    "description": "This is a project made with Html, CSS and Javascript.",
+    "demo": "https://krishnasonii.github.io/To-do-app/",
+    "source": "https://github.com/krishnasonii/To-do-app.git"
+  }
+
+]
