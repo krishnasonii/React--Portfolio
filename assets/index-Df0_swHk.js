@@ -72,14 +72,14 @@ Error generating stack: `+i.message+`
   hover:bg-amber-300\r
   transition-colors duration-300\r
   shadow-md\r
-            `,children:"Download Resume"})]}),v.jsx("div",{className:"flex justify-center md:justify-end",children:v.jsxs("div",{className:"relative w-44 h-44 md:w-52 md:h-52 rounded-full overflow-hidden",children:[v.jsx("div",{className:"absolute inset-0 rounded-full bg-yellow-400 blur-2xl opacity-25"}),v.jsx("img",{src:"/assets/hero/passport krishna.jpg",alt:"Krishna Soni",className:`\r
-        relative\r
-        w-full h-full\r
-        object-cover\r
-        rounded-full\r
-        shadow-2xl\r
-        border-4 border-yellow-400\r
-      `})]})})]})})},xp=[{id:1,role:"Full-Stack Developer",organisation:"Main Flow Services and Technologies Pvt. Ltd.",startDate:"June to ",endDate:"July, 2025",Mode:"Remote",experiences:["Remote"],imageSrc:"assets/company/mainflow.jpeg"},{id:2,role:"Web Developer",organisation:"Apex Planet Software Pvt. Ltd.",startDate:"March to ",endDate:"May, 2025",Mode:"Remote",experiences:["Remote"],imageSrc:"assets/company/apex.png"}],Ep=()=>v.jsx(v.Fragment,{children:v.jsxs("div",{className:"container ex",id:"experience",children:[v.jsx("h1",{className:`  text-3xl md:text-4xl\r
+            `,children:"Download Resume"})]}),v.jsx("div",{className:"flex justify-center md:justify-end",children:v.jsxs("div",{className:"relative w-44 h-44 md:w-52 md:h-52 rounded-full overflow-hidden",children:[v.jsx("div",{className:"absolute inset-0 rounded-full bg-yellow-400 blur-2xl opacity-25"}),v.jsx("img",{src:"/React--Portfolio/assets/hero/krishnapic.jpg",alt:"Krishna Soni",className:`\r
+    relative\r
+    w-full h-full\r
+    object-cover\r
+    rounded-full\r
+    shadow-2xl\r
+    border-4 border-yellow-400\r
+  `})]})})]})})},xp=[{id:1,role:"Full-Stack Developer",organisation:"Main Flow Services and Technologies Pvt. Ltd.",startDate:"June to ",endDate:"July, 2025",Mode:"Remote",experiences:["Remote"],imageSrc:"assets/company/mainflow.jpeg"},{id:2,role:"Web Developer",organisation:"Apex Planet Software Pvt. Ltd.",startDate:"March to ",endDate:"May, 2025",Mode:"Remote",experiences:["Remote"],imageSrc:"assets/company/apex.png"}],Ep=()=>v.jsx(v.Fragment,{children:v.jsxs("div",{className:"container ex",id:"experience",children:[v.jsx("h1",{className:`  text-3xl md:text-4xl\r
   font-semibold\r
   text-[#1E2A5A]\r
   text-center\r
