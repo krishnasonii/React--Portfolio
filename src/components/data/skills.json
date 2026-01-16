@@ -1,80 +1,80 @@
 [
   {
     "title": "HTML5",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "/assets/skills/html.png"
   },
   {
     "title": "CSS3",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "/assets/skills/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "/assets/skills/javascript.png"
   },
   {
     "title": "React JS",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "/assets/skills/react.png"
   },
   {
     "title": "Node JS",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "/assets/skills/node.png"
   },
   {
     "title": "Express JS",
-    "imageSrc": "skills/Express.png"
+    "imageSrc": "/assets/skills/Express.png"
   },
  
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "/assets/skills/mongodb.png"
   },
    {
     "title": "C++",
-    "imageSrc": "skills/clogo.png"
+    "imageSrc": "/assets/skills/clogo.png"
   },
   {
      "title": "Java",
-    "imageSrc": "skills/java.png"
+    "imageSrc": "/assets/skills/java.png"
   },
    {
      "title": "MySql",
-    "imageSrc": "skills/mys.png"
+    "imageSrc": "/assets/skills/mys.png"
   },
    {
      "title": "Postman",
-    "imageSrc": "skills/postman.png"
+    "imageSrc": "/assets/skills/postman.png"
   },
    {
      "title": "Zustand",
-    "imageSrc": "skills/zustands.jpg"
+    "imageSrc": "/assets/skills/zustands.jpg"
   },
    {
      "title": "Docker",
-    "imageSrc": "skills/docker.png"
+    "imageSrc": "/assets/skills/docker.png"
   },
    {
      "title": "Linux",
-    "imageSrc": "skills/linux.png"
+    "imageSrc": "/assets/skills/linux.png"
   },
  {
      "title": "Cloudinary",
-    "imageSrc": "skills/cloudinary.png"
+    "imageSrc": "/assets/skills/cloudinary.png"
   },
    {
      "title": "git & Github",
-    "imageSrc": "skills/github.png"
+    "imageSrc": "/assets/skills/github.png"
   },
    {
      "title": "Socket.io",
-    "imageSrc": "skills/socket.png"
+    "imageSrc": "/assets/skills/socket.png"
   },
    {
      "title": "OpenAI",
-    "imageSrc": "skills/openAI.jpg"
+    "imageSrc": "/assets/skills/openAI.jpg"
   },
    {
      "title": "Tailwind CSS",
-    "imageSrc": "skills/tailwind.png"
+    "imageSrc": "/assets/skills/tailwind.png"
   }
  
  
