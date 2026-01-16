@@ -22,8 +22,11 @@ const Skills = () => {
                 data-aos="flip-left"
                 data-aos-duration="1000"
               >
-                <img src={`/${data.imageSrc}`} alt={data.title} />
-                <h3>{data.title}</h3>
+              <img
+             src={`${import.meta.env.BASE_URL}${data.imageSrc}`}
+             alt={data.title}
+                   />
+            <h3>{data.title}</h3>
               </div>
             </>
           ))}
