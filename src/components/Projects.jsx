@@ -20,12 +20,13 @@ const Projects = () => {
               data-aos="flip-right"
               data-aos-duration="1000"
             >
-          
               <div className="project-img">
-                <img src={data.imageSrc} alt={data.title} />
+                <img
+                  src={`${import.meta.env.BASE_URL}${data.imageSrc}`}
+                  alt={data.title}
+                />
               </div>
 
-            
               <div className="card-body text-center d-flex flex-column">
                 <h5 className="card-title">{data.title}</h5>
 
@@ -33,8 +34,7 @@ const Projects = () => {
                   {data.description}
                 </p>
 
-              
-                <div className="d-flex justify-content-center gap-3 mt-3">
+                <div className="button-group mt-auto d-flex justify-content-center gap-3">
                   <a
                     href={data.demo}
                     target="_blank"

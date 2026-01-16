@@ -295,16 +295,18 @@ img {
   box-shadow: 0 0 25px rgba(250, 204, 21, 0.35);
   display: flex;
   flex-direction: column;
-  transition: 0.3s;
+  transition: transform 0.3s ease;
 }
 
 .project-card:hover {
   transform: translateY(-10px);
 }
 
+/* ================= IMAGE ================= */
 .project-img {
   height: 200px;
   padding: 12px;
+  overflow: hidden;
 }
 
 .project-img img {
@@ -314,10 +316,43 @@ img {
   border-radius: 10px;
 }
 
+/* ================= BODY ================= */
 .project-card .card-body {
   padding: 14px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
 }
 
+/* Title */
+.project-card .card-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* Fix uneven description height */
+.project-card .card-text {
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 72px;   /* 🔥 key line */
+}
+
+/* Buttons locked at bottom */
+.project-card .button-group {
+  margin-top: auto;   /* 🔥 pushes buttons down */
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.project-card .button-group .btn {
+  min-width: 90px;
+  font-size: 14px;
+}
+
+/* ================= MOBILE ================= */
 @media (max-width: 576px) {
   .project-card {
     width: 100%;
@@ -329,6 +364,9 @@ img {
     height: 180px;
   }
 }
+
+
+
 
 .contact-icon {
   display: flex;
