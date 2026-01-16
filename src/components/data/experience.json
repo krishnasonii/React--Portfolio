@@ -9,7 +9,7 @@
     "experiences": [ "Remote"
 
     ],
-    "imageSrc": "company/mainflow.jpeg"
+    "imageSrc": "assets/company/mainflow.jpeg"
   },
     {
     "id": 2,
@@ -21,7 +21,7 @@
     "experiences": [ "Remote"
 
     ],
-    "imageSrc": "company/apex.png"
+    "imageSrc": "assets/company/apex.png"
   }
 
 
