@@ -1,83 +1,83 @@
 [
   {
     "title": "HTML5",
-    "imageSrc": "/assets/skills/html.png"
+    "imageSrc": "assets/skills/html.png"
   },
   {
     "title": "CSS3",
-    "imageSrc": "/assets/skills/css.png"
+    "imageSrc": "assets/skills/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "/assets/skills/javascript.png"
+    "imageSrc": "assets/skills/javascript.png"
   },
   {
     "title": "React JS",
-    "imageSrc": "/assets/skills/react.png"
+    "imageSrc": "assets/skills/react.png"
   },
   {
     "title": "Node JS",
-    "imageSrc": "/assets/skills/node.png"
+    "imageSrc": "assets/skills/node.png"
   },
   {
     "title": "Express JS",
-    "imageSrc": "/assets/skills/Express.png"
+    "imageSrc": "assets/skills/Express.png"
   },
  
   {
     "title": "MongoDB",
-    "imageSrc": "/assets/skills/mongodb.png"
+    "imageSrc": "assets/skills/mongodb.png"
   },
    {
     "title": "C++",
-    "imageSrc": "/assets/skills/clogo.png"
+    "imageSrc": "assets/skills/clogo.png"
   },
   {
      "title": "Java",
-    "imageSrc": "/assets/skills/java.png"
+    "imageSrc": "assets/skills/java.png"
   },
    {
      "title": "MySql",
-    "imageSrc": "/assets/skills/mys.png"
+    "imageSrc": "assets/skills/mys.png"
   },
    {
      "title": "Postman",
-    "imageSrc": "/assets/skills/postman.png"
+    "imageSrc": "assets/skills/postman.png"
   },
    {
      "title": "Zustand",
-    "imageSrc": "/assets/skills/zustands.jpg"
+    "imageSrc": "assets/skills/zustands.jpg"
   },
    {
      "title": "Docker",
-    "imageSrc": "/assets/skills/docker.png"
+    "imageSrc": "assets/skills/docker.png"
   },
    {
      "title": "Linux",
-    "imageSrc": "/assets/skills/linux.png"
+    "imageSrc": "assets/skills/linux.png"
   },
  {
      "title": "Cloudinary",
-    "imageSrc": "/assets/skills/cloudinary.png"
+    "imageSrc": "assets/skills/cloudinary.png"
   },
    {
      "title": "git & Github",
-    "imageSrc": "/assets/skills/github.png"
+    "imageSrc": "assets/skills/github.png"
   },
    {
      "title": "Socket.io",
-    "imageSrc": "/assets/skills/socket.png"
+    "imageSrc": "assets/skills/socket.png"
   },
    {
      "title": "OpenAI",
-    "imageSrc": "/assets/skills/openAI.jpg"
+    "imageSrc": "assets/skills/openAI.jpg"
   },
    {
      "title": "Tailwind CSS",
-    "imageSrc": "/assets/skills/tailwind.png"
+    "imageSrc": "assets/skills/tailwind.png"
   }
  
  
- 
+
  
 ]
