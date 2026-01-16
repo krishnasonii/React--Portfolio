@@ -62,17 +62,17 @@ const Home = () => {
     <div className="absolute inset-0 rounded-full bg-yellow-400 blur-2xl opacity-25"></div>
 
     <img
-      src="/assets/hero/passport krishna.jpg"
-      alt="Krishna Soni"
-      className="
-        relative
-        w-full h-full
-        object-cover
-        rounded-full
-        shadow-2xl
-        border-4 border-yellow-400
-      "
-    />
+  src={`${import.meta.env.BASE_URL}assets/hero/krishnapic.jpg`}
+  alt="Krishna Soni"
+  className="
+    relative
+    w-full h-full
+    object-cover
+    rounded-full
+    shadow-2xl
+    border-4 border-yellow-400
+  "
+/>
   </div>
 </div>
       </div>
