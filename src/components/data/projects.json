@@ -8,7 +8,7 @@
     "title": "AI-Powered Recipe Generator",
     "imageSrc": "Recipe.jpeg",
     "description": "AI-Powered Recipe Generator built with MERN stack, OpenAI API, and real-time recipe suggestions.",
-    "demo": "",
+    "demo": "https://effortless-jelly-24a1e7.netlify.app/",
     "source": "https://github.com/krishnasonii/AI-Recipe-Generator.git"
   },
   {
