@@ -302,7 +302,7 @@ img {
   transform: translateY(-10px);
 }
 
-/* ================= IMAGE ================= */
+
 .project-img {
   height: 200px;
   padding: 12px;
@@ -316,7 +316,7 @@ img {
   border-radius: 10px;
 }
 
-/* ================= BODY ================= */
+
 .project-card .card-body {
   padding: 14px;
   color: white;
@@ -332,16 +332,15 @@ img {
   margin-bottom: 6px;
 }
 
-/* Fix uneven description height */
+
 .project-card .card-text {
   font-size: 14px;
   line-height: 1.5;
-  min-height: 72px;   /* 🔥 key line */
+  min-height: 72px;   
 }
 
-/* Buttons locked at bottom */
 .project-card .button-group {
-  margin-top: auto;   /* 🔥 pushes buttons down */
+  margin-top: auto;   
   display: flex;
   justify-content: center;
   gap: 12px;
@@ -352,7 +351,7 @@ img {
   font-size: 14px;
 }
 
-/* ================= MOBILE ================= */
+
 @media (max-width: 576px) {
   .project-card {
     width: 100%;
