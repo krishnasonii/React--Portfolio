@@ -26,15 +26,6 @@
     "description": "This is a project made with MERN stack and Socket.io for real-time messaging.",
     "demo": "https://chat-applicaton-op86.onrender.com/",
     "source": "https://github.com/krishnasonii/Chat-applicaton.git"
-  },
-
-  {
-    "key": 4,
-    "title": "To-DO-List Web App",
-    "imageSrc": "todo.jpeg",
-    "description": "This is a project made with Html, CSS and Javascript.",
-    "demo": "https://krishnasonii.github.io/To-do-app/",
-    "source": "https://github.com/krishnasonii/To-do-app.git"
   }
 
 ]
