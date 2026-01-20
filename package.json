@@ -22,6 +22,7 @@
     "typed.js": "^2.1.0"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.1.18",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
     "@vitejs/plugin-react": "^4.7.0",
@@ -30,6 +31,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "gh-pages": "^6.3.0",
-    "vite": "^5.1.0"
+    "vite": "^7.3.1"
   }
 }
