@@ -20,7 +20,7 @@ const Contact = () => {
         or connect on LinkedIn / GitHub.
       </p>
 
-      {/* ICONS — THIS WAS MISSING */}
+    
       <div className="contact-icon">
         <a
           href="https://www.linkedin.com/in/krishna-soni-5b1a212b9"

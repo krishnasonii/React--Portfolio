@@ -7,25 +7,28 @@
     "key": 1,
     "title": "AI-Powered Recipe Generator",
     "imageSrc": "Recipe.jpeg",
-    "description": "AI-Powered Recipe Generator built with MERN stack, OpenAI API, and real-time recipe suggestions.",
+    "description": "AI Recipe Generator is a smart web application that creates personalized recipes based on available ingredients, making cooking faster and more creative.",
     "demo": "https://effortless-jelly-24a1e7.netlify.app/",
-    "source": "https://github.com/krishnasonii/AI-Recipe-Generator.git"
+    "source": "https://github.com/krishnasonii/AI-Recipe-Generator.git",
+      "tech": ["React", "Node.js", "MongoDB", "OpenAI API","Tailwind CSS"]
   },
   {
     "key": 2,
     "title": "Hotel Mangement and Listing Platform",
     "imageSrc": "portimg.jpeg",
-    "description": "A full-stack project built with JavaScript, Node.js, Express.js, MongoDB, and EJS, implementing RESTful APIs.",
+    "description": "A full-stack web application that enables users to browse, manage, and list properties through a structured and user-friendly interface, powered by a scalable backend and RESTful APIs.",
     "demo": "https://project-z5e5.onrender.com",
-    "source": "https://github.com/krishnasonii/Hotel-Management-and-Listing-Platfrom.git"
+    "source": "https://github.com/krishnasonii/Hotel-Management-and-Listing-Platfrom.git",
+      "tech": ["React", "Node.js", "MongoDB", "OpenAI API"]
   },
     {
     "key": 3,
     "title": "Chat Application",
     "imageSrc": "chatpic.png",
-    "description": "This is a project made with MERN stack and Socket.io for real-time messaging.",
+    "description": "A real-time chat application that enables seamless communication between users with instant message delivery through a responsive and interactive interface.",
     "demo": "https://chat-applicaton-op86.onrender.com/",
-    "source": "https://github.com/krishnasonii/Chat-applicaton.git"
+    "source": "https://github.com/krishnasonii/Chat-applicaton.git",
+      "tech": ["React", "Node.js", "MongoDB", "OpenAI API"]
   }
 
 ]
