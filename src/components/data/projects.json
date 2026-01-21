@@ -10,7 +10,7 @@
     "description": "AI Recipe Generator is a smart web application that creates personalized recipes based on available ingredients, making cooking faster and more creative.",
     "demo": "https://effortless-jelly-24a1e7.netlify.app/",
     "source": "https://github.com/krishnasonii/AI-Recipe-Generator.git",
-      "tech": ["React", "Node.js", "MongoDB", "OpenAI API","Tailwind CSS"]
+      "tech": ["React.js", "Node.js", "MongoDB Atlas", "OpenAI API","Tailwind CSS", "Axios", "Express.js"]
   },
   {
     "key": 2,
@@ -19,7 +19,7 @@
     "description": "A full-stack web application that enables users to browse, manage, and list properties through a structured and user-friendly interface, powered by a scalable backend and RESTful APIs.",
     "demo": "https://project-z5e5.onrender.com",
     "source": "https://github.com/krishnasonii/Hotel-Management-and-Listing-Platfrom.git",
-      "tech": ["React", "Node.js", "MongoDB", "OpenAI API"]
+      "tech": ["Node.js", "MongoDB Atlas", "EJS", "Bootstrap", "Express.js", "RESTful APIs", "Cloudinary"]
   },
     {
     "key": 3,
@@ -28,7 +28,7 @@
     "description": "A real-time chat application that enables seamless communication between users with instant message delivery through a responsive and interactive interface.",
     "demo": "https://chat-applicaton-op86.onrender.com/",
     "source": "https://github.com/krishnasonii/Chat-applicaton.git",
-      "tech": ["React", "Node.js", "MongoDB", "OpenAI API"]
+      "tech": ["Socket.io","Node.js", "MongoDB Atlas","Lucide-react icons", "React.js", "Express.js","Zustand", "Cloudinary", "Tailwind CSS"]
   }
 
 ]
