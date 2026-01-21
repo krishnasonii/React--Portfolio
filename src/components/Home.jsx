@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
-import pdf from "../pdf/krishna.pdf";
+import pdf from "../pdf/Krishna.pdf";
 
 const Home = () => {
   const typedRef = useRef(null);
@@ -41,7 +41,7 @@ const Home = () => {
 
           <a
             href={pdf}
-            download="krishna.pdf"
+            download="Krishna.pdf"
             className="
                 inline-block px-7 py-2 rounded-lg
   bg-amber-400 text-black font-semibold
