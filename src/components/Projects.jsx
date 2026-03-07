@@ -10,7 +10,7 @@ const Projects = () => {
         </h2>
           <div className="w-24 h-1 bg-amber-400 mx-auto mb-10 rounded"></div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 justify-items-center">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 justify-items-center">
           {project.map((item) => (
             <div key={item.key} className="project-card">
               

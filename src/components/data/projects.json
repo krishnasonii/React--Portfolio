@@ -29,6 +29,15 @@
     "demo": "https://chat-applicaton-op86.onrender.com/",
     "source": "https://github.com/krishnasonii/Chat-applicaton.git",
       "tech": ["Socket.io","Node.js", "MongoDB Atlas","Lucide-react icons", "React.js", "Express.js","Zustand", "Cloudinary", "Tailwind CSS"]
+  },
+    {
+    "key": 4,
+    "title": "Insightly AI",
+    "imageSrc": "bigdata.jpeg",
+    "description": "An AI-powered productivity tool that helps users gain insights from their data through natural language processing and advanced analytics.",
+    "demo": "https://insightly-ai.vercel.app/",
+    "source": "https://github.com/krishnasonii/Insightly-AI.git",
+      "tech": ["Next.js", "Tailwind CSS", "Gemini API", "Socket.IO", "Node.js", "Express.js", "MongoDB"]
   }
 
 ]
