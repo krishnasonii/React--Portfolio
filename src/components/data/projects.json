@@ -1,43 +1,74 @@
-
-
-
-
 [
-    {
+  {
     "key": 1,
+    "title": "Insightly AI",
+    "imageSrc": "insightly.png",
+    "description": "Insightly AI is an AI-powered meeting assistant that enables real-time video communication, live speech-to-text transcription, and automatic meeting summarization. It helps users capture discussions, extract key insights, and store meeting data efficiently.",
+    "demo": "https://insightly-ai-rosy.vercel.app/",
+    "source": "https://github.com/krishnasonii/Insightly-AI.git",
+    "tech": [
+      "Deepgram",
+      "Groq API",
+      "Socket.IO",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "Material UI",
+      "JWT"
+    ]
+  },
+  {
+    "key": 2,
     "title": "AI-Powered Recipe Generator",
     "imageSrc": "Recipe.jpeg",
     "description": "AI Recipe Generator is a smart web application that creates personalized recipes based on available ingredients, making cooking faster and more creative.",
     "demo": "https://effortless-jelly-24a1e7.netlify.app/",
     "source": "https://github.com/krishnasonii/AI-Recipe-Generator.git",
-      "tech": ["React.js", "Node.js", "MongoDB Atlas", "OpenAI API","Tailwind CSS", "Axios", "Express.js"]
+    "tech": [
+      "React.js",
+      "Node.js",
+      "MongoDB Atlas",
+      "OpenAI API",
+      "Tailwind CSS",
+      "Axios",
+      "Express.js"
+    ]
   },
   {
-    "key": 2,
+    "key": 3,
     "title": "Hotel Mangement and Listing Platform",
     "imageSrc": "portimg.jpeg",
     "description": "A full-stack web application that enables users to browse, manage, and list properties through a structured and user-friendly interface, powered by a scalable backend and RESTful APIs.",
     "demo": "https://project-z5e5.onrender.com",
     "source": "https://github.com/krishnasonii/Hotel-Management-and-Listing-Platfrom.git",
-      "tech": ["Node.js", "MongoDB Atlas", "EJS", "Bootstrap", "Express.js", "RESTful APIs", "Cloudinary"]
+    "tech": [
+      "Node.js",
+      "MongoDB Atlas",
+      "EJS",
+      "Bootstrap",
+      "Express.js",
+      "RESTful APIs",
+      "Cloudinary"
+    ]
   },
-    {
-    "key": 3,
+  {
+    "key": 4,
     "title": "Chat Application",
     "imageSrc": "chatpic.png",
     "description": "A real-time chat application that enables seamless communication between users with instant message delivery through a responsive and interactive interface.",
     "demo": "https://chat-applicaton-op86.onrender.com/",
     "source": "https://github.com/krishnasonii/Chat-applicaton.git",
-      "tech": ["Socket.io","Node.js", "MongoDB Atlas","Lucide-react icons", "React.js", "Express.js","Zustand", "Cloudinary", "Tailwind CSS"]
-  },
-    {
-    "key": 4,
-    "title": "Insightly AI",
-    "imageSrc": "bigdata.jpeg",
-    "description": "An AI-powered productivity tool that helps users gain insights from their data through natural language processing and advanced analytics.",
-    "demo": "https://insightly-ai.vercel.app/",
-    "source": "https://github.com/krishnasonii/Insightly-AI.git",
-      "tech": ["Next.js", "Tailwind CSS", "Gemini API", "Socket.IO", "Node.js", "Express.js", "MongoDB"]
+    "tech": [
+      "Socket.io",
+      "Node.js",
+      "MongoDB Atlas",
+      "Lucide-react icons",
+      "React.js",
+      "Express.js",
+      "Zustand",
+      "Cloudinary",
+      "Tailwind CSS"
+    ]
   }
-
 ]
